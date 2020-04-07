@@ -19,7 +19,13 @@ Punch is an open platform merchant/customer loyalty solution that flips the typi
 - View tokens held
 - Redeem a token at Point of Sale
 
-**Website User Stories**
+**Punch Website User Stories**
 - Allow a merchant or user to login to their customer portal
 - Tutorial on how it works
 - Legal agreements and disclaimers
+
+**Guiding Principles**
+- Cleanly separate front-end and back-end
+- Repackage existing services wherever possible
+- Web view should be a curation of on-chain data, rather than a novel or complex contract code
+- Onboarding flows should repackage existing services and present them as simple steps, but everything could be completed independently (ie. wallet creation, issuance, redemption, key storage)
