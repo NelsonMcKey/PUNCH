@@ -1,2 +1,2 @@
-# HRT
-I-HRT-YOU
+# PUNCH
+Loyalty platform
