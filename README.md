@@ -1,8 +1,8 @@
 # PUNCH
-## Introduction##
-TBC - Punch is an open platform merchant/customer loyalty solution that flips the typical coffee punch card on its head. Merchants can create a branded digital dollar, legally representing a good or service that they provide. Loyal customers can obtain discounted digital dollars, to be traded or redeemed - from their favourite merchants. This simple mechanism creates new sources of discounted cash flow for small businesses, and creates new commerce opportunities for loyal customers who intend to advocate for and purchase from a brand for more than a single transaction.
+## Introduction ##
+Punch is an open platform merchant/customer loyalty solution that flips the typical coffee punch card on its head. Merchants can create a branded digital dollar, legally representing a good or service that they provide. Loyal customers can obtain discounted digital dollars, to be traded or redeemed - from their favourite merchants. This simple mechanism creates new sources of discounted cash flow for small businesses, and creates new commerce opportunities for loyal customers who intend to advocate for and purchase from a brand for more than a single transaction.
 
-## Features##
+## Features ##
 
 **Merchant Portal User Stories**
 - Create a new merchant wallet and profile (Authereum, 3box)
