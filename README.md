@@ -31,7 +31,7 @@ Punch is an open platform merchant/customer loyalty solution that flips the typi
 - Onboarding flows should repackage existing services and present them as simple steps, but everything could be completed independently (ie. wallet creation, issuance, redemption, key storage)
 
 
-**Mandatory Reading and references**
+**Reading and references**
 - I found a centralised version: https://www.kabbage.com/
 - Uniswag is similar for physical goods: https://www.uniswag.io/
 - $Roll creates social money: https://www.dapp.com/dapp/roll-2
@@ -39,9 +39,15 @@ Punch is an open platform merchant/customer loyalty solution that flips the typi
 - OpenLaw contract for personal token issuance: https://lib.openlaw.io/web/default/template/Generate%20Personal%20Token%20%F0%9F%91%A4
 - Affogato, a specific solution for Coffee: https://affogato.co/
 - And the Affogato write up: https://medium.com/affogato-network/cafe-dynamically-priced-coffee-fc1d0a5ec98d
+- Stakeonme: https://stakeonme.com/
+- https://www.bloomberg.com/news/articles/2020-04-16/hilton-selling-1-billion-in-loyalty-points-to-american-express
 
-**Solution Stack for Investigation (TBC)**
+**Solution Stack (TBC this is just a dump for further investigation)**
 - Torus, OAuth for web3: https://tor.us/
 - Blocknative: https://www.blocknative.com/
 - Identity: 3box.io
 - Contracts: OpenLaw
+- Boxwap for NFT trading: https://boxswap.io/
+- Social referral: 2key.network
+- Events: https://www.notus.events/
+- IPFS deployment: https://fleek.co/
